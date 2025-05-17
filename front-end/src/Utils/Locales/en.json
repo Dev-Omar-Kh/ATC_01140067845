@@ -1,0 +1,177 @@
+{
+
+    "homeWord": "Home",
+    "eventsWord": "Events",
+    "bookedEventsWord": "Booked Events",
+    "adminPanelWord": "Admin Panel",
+    "loginWord": "Login",
+    "logoutWord": "Logout",
+    "registerWord": "Register",
+    "signUpWord": "Sign Up",
+    "arWord": "Arabic",
+    "enWord": "English",
+    "lightMode": "Light Mode",
+    "darkMode": "Dark Mode",
+    "languageWord": "Language",
+    "createYourAccountWord": "Create your account",
+    "nameWord": "Name",
+    "emailWord": "Email",
+    "passwordWord": "Password",
+    "confirmPasswordWord": "Confirm Password",
+    "namePlaceholderWord": "Enter your name",
+    "emailPlaceholderWord": "Enter your email",
+    "passwordPlaceholderWord": "Enter your password",
+    "confirmPasswordPlaceholderWord": "Confirm your password",
+    "hasAccountWord": "Already have an account?",
+    "forgotPasswordWord": "Forgot Password?",
+    "welcomeBackWord": "Welcome back!",
+    "doNotHaveAccount": "You don't have an account yet?",
+    "createAccountWord": "Create account",
+    "bookWord": "Book",
+    "heroTitle": "Your Next Experience Today",
+    "heroSlogan": "Discover and book amazing events happening around you. From concerts to conferences, we've got you covered.",
+    "exploreEventsWord": "Explore events",
+    "totalEventsWord": "Total events",
+    "usersRatesWord": "Users rates",
+    "totalReservedTicketsWord": "Total reserved tickets",
+    "presentCountries": "Present in countries",
+    "weOfferWord": "What we offer",
+
+    "conferencesWord": "Conferences",
+    "conferencesSlogan": "Formal gatherings to discuss specialized topics like technology or job opportunities.",
+    
+    "showsPerformancesWord": "Theater Shows or Performances",
+    "showsPerformancesSlogan": "Artistic performances on stage including acting, dance, or comedy.",
+    
+    "exhibitionsWord": "Exhibitions",
+    "exhibitionsSlogan": "Events showcasing products or artworks to the public or for sale.",
+    
+    "festivalsWord": "Festivals",
+    "festivalsSlogan": "Large celebrations featuring entertainment and cultural activities.",
+    
+    "coursesWorkshopsWord": "Training Courses & Workshops",
+    "coursesWorkshopsSlogan": "Educational events focused on skill development or hands-on learning.",
+    
+    "musicConcertsWord": "Music Concerts",
+    "musicConcertsSlogan": "Entertainment events featuring live music performances for an audience.",
+
+    "latestEventsWord": "Latest events",
+    "allEventsWord": "All Events",
+    "footerSentience": "Discover exciting events, workshops, and gatherings around you with Eventra. Book your next experience easily and connect with your community.",
+    "footerName": "Omar Khaled",
+    "footerMsg": "All Rights Reserved",
+
+    "eventsManagementWord": "Events Management",
+    "addEventWord": "Add Event",
+    "eventWord": "Event",
+    "dateWord": "Date",
+    "locationWord": "Location",
+    "statusWord": "Status",
+    "viewEventsWord": "View Events",
+    "actionsWord": "Actions",
+
+    "uploadImageWord": "Upload Event Image",
+    "eventNameWord": "Event Name",
+    "eventNamePlaceholder": "Enter the event name",
+    "locationPlaceholder": "Enter the event location",
+    "chooseEventType": "Event Type",
+    "chooseEventTypePlaceholder": "Choose event type",
+    "eventDateWord": "Event Date",
+    "numOfSeatsWord": "Number of Seats",
+    "numOfSeatsPlaceholder": "Enter the number of seats",
+    "eventSloganWord": "Event Slogan",
+    "eventSloganPlaceholder": "Enter the event slogan",
+    "eventDescriptionWord": "Event Description",
+    "eventDescriptionPlaceholder": "Enter the event description",
+    "agendaItemWord": "Agenda Detail",
+    "agendaPlaceholderWord": "Enter the agenda detail",
+
+    "emailRequiredWord": "Email is required",
+    "emailInvalidWord": "Invalid email address",
+    "passwordRequiredWord": "Password is required",
+    "nameRequiredWord": "Name is required",
+    "passwordMinWord": "Password must be at least 6 characters",
+    "passwordMustMatchWord": "Passwords must match",
+    "confirmPasswordRequiredWord": "Confirm password is required",
+
+    "loginErrorMsg": "Incorrect email or password",
+    "loginWelcomeMessage": "Welcome, {{name}}",
+    "signUpWelcomeMessage": "Welcome {{name}}, Your account created successfully",
+    "signUpError": "Unexpected error",
+
+    "errorFetchMessage": "Error on fetching data",
+    "noEventsYetMessage": "there's no events yet",
+
+    "viewEventWord": "View Event",
+
+    "imageTypeMsg": "Must be a valid image file",
+    "imageRequiredMsg": "Image is required",
+
+    "nameMinMsg": "Name must be at least 3 characters",
+    "nameMaxMsg": "Name must be less than 100 characters",
+    "nameRequiredMsg": "Name is required",
+
+    "locationRequiredMsg": "Location is required",
+
+    "typeRequiredMsg": "Type is required",
+
+    "dateRequiredMsg": "Date is required",
+
+    "seatsTypeMsg": "Seats must be a number",
+    "seatsIntegerMsg": "Seats must be an integer",
+    "seatsMinMsg": "There must be at least one seat",
+    "seatsRequiredMsg": "Seats number is required",
+
+    "sloganRequiredMsg": "Slogan is required",
+
+    "descriptionRequiredMsg": "Description is required",
+
+    "agendaRequiredMsg": "Agenda is required",
+    "agendaMinMsg": "At least one agenda item is required",
+    "agendaItemRequiredMsg": "Agenda item can't be empty",
+
+    "noOptionsMatched": "No options matched",
+
+    "eventAddedSuccessfullyMsg": "Event added successfully",
+    "errorAddEventMsg": "Something is error",
+
+    "updateEventWord": "Update Event",
+    "updateImageWord": "Update Image",
+    "loadingWord": "Loading...",
+
+    "eventUpdatedSuccessfullyMsg": "Event updated successfully",
+    "errorUpdateEventMsg": "Error on updating event",
+
+    "deleteEventTitle": "Delete Event",
+    "deleteEventMessage": "Are you sure you want to delete this Event? This action cannot be undone.",
+    "confirmWord": "Confirm",
+    "cancelWord": "Cancel",
+
+    "eventDeletedSuccessMsg": "Event deleted successfully",
+    "failedDeleteEventMsg": "Failed delete this event",
+
+    "deleteBookedEventTitle": "Delete booking",
+    "deleteBookedEventMessage": "Are you sure you want to delete this Booking? This action cannot be undone.",
+    "eventBookedDeletedSuccessMsg": "Event booking deleted successfully",
+    "failedDeleteBookedEventMsg": "Failed deleting booking event",
+
+    "noEventsBookedYet" :"No events booked yet",
+    "errorTableMsg": "Error on fetching data",
+
+    "eventBookedSuccessfully": "Event booked successfully",
+    "failedBookEvent": "Failed book event",
+
+    "bookNowWord": "Book Now",
+    "bookedWord": "Booked",
+
+    "outOfStockWord": "Tickets sold out",
+
+    "authErrorMsg": "You must log in first.",
+
+    "errorPageMsg": "Sorry, this page isn’t available. It may have been deleted, moved, or you don’t have permission to view it.",
+
+    "goToHomeWord": "Go to home page",
+
+    "accountWord": "Account"
+
+}
