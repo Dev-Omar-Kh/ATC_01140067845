@@ -17,6 +17,21 @@ Supports:
 
 ---
 
+## Admin Login
+
+To log in as an admin, use the following credentials:
+
+- **Email:** omar.er3434@gmail.com
+- **Password:** asdasd
+
+### Steps:
+1. Go to the login page.
+2. Enter the admin email and password above.
+3. Click the **Login** button.
+4. You will be redirected to the admin dashboard.
+
+---
+
 ## 📦 Project Structure
 
 ```
