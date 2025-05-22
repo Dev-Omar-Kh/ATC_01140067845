@@ -30,6 +30,8 @@ To log in as an admin, use the following credentials:
 3. Click the **Login** button.
 4. You will be redirected to the admin dashboard.
 
+> ⚠️ These credentials are for testing purposes only. Make sure to change them in production!
+
 ---
 
 ## 📦 Project Structure
